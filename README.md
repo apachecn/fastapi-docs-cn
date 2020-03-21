@@ -31,7 +31,7 @@ FastAPI 是一个现代、快速（高性能）的 Web 框架，基于标准 Pyt
 
 主要功能包括：
 
-* **快速**: 与 **NodeJS** 和 **Go** ，相比有相当的高性能（感谢 Starlette 和 Pydantic）。 [现有最快的Python框架之一](#performance)。
+* **快速**: 与**NodeJS**和**Go**相当，拥有高性能（感谢 Starlette 和 Pydantic）。 [现有最快的Python框架之一](#performance)。
 
 * **快速编码**：将功能开发速度提高约200％至300％。
 * **更少的Bug**：减少约40％的人为（开发人员）导致的错误。
